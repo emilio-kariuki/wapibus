@@ -14,6 +14,7 @@ class _HomeState extends State<Home> {
       body: SafeArea(
         child: Column(
           children: [
+            Text("Name")
             
           ],
         )
